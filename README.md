@@ -1,4 +1,4 @@
-# <center>Study Note</center>
+# <div align="center">✏️ Study Note</div>
 
 ### Git
 ---
