@@ -1,14 +1,10 @@
 # <div align="center">✏️ Study Note</div>
 
-### Git
----
+## Git
 
-### HTML
----
+## HTML
 
-### CSS / SASS
----
+## CSS / SASS
 
-### JavaScript
----
+## JavaScript
 
