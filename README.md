@@ -1,2 +1,14 @@
-# study-note
-✏️ Study Note :: 공부하고 기록하기
+# <center>Study Note</center>
+
+### Git
+---
+
+### HTML
+---
+
+### CSS / SASS
+---
+
+### JavaScript
+---
+
