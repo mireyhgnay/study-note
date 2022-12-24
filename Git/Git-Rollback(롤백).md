@@ -1,4 +1,4 @@
-# <div align="center">Rollback (Reset VS Revert)</div>
+# <div align="center">👩🏻‍💻 Rollback (Reset VS Revert)</div>
 나는 아직 롤백을 경험해본 적은 없지만… 알아두어야한다!!
 > 프로젝트를 진행하는 중에 예기치 못한 변수 발생 시, 이력 되돌리기를 할 수 있는 상황 대비하여 공부해두어야 한다.    
 하지만 롤백하는 경우는 거의 없어야한다~~    

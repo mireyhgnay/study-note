@@ -1,4 +1,4 @@
-# <div align="center">git stash(임시 저장)</div>
+# <div align="center">👩🏻‍💻 git stash(임시 저장)</div>
 아직 마무리하지 않은 작업을 스택에 잠시 저장할 수 있도록 하는 명령어이다.    
 commit 하기에는 애매하고, 그렇다고 작업하던 내용을 날릴수도 없고 할때,    
 `stash` 기능을 사용하면된다!    
