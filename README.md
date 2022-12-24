@@ -5,7 +5,9 @@
 * [Stash](https://github.com/mireyhgnay/study-note/blob/main/Git/Git-Stash%20%EB%AA%85%EB%A0%B9%EC%96%B4.md)
 * [Rollback](https://github.com/mireyhgnay/study-note/blob/main/Git/Git-Rollback(%EB%A1%A4%EB%B0%B1).md)
 * Error
-    - [하위브랜치끼리 머지 충돌난 경우]()
+    - [협업시 하위브랜치끼리 머지 충돌난 경우]()
+    - [pull 오류 :: Not possible to fast-forward, aborting]()
+    - [git push 오류]()
 
 ## HTML
 
@@ -14,4 +16,3 @@
 ## JavaScript
 
 ## Dev
-
