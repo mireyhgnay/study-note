@@ -53,3 +53,10 @@ $ git commit -m "커밋 제목
 
 부가 설명"
 ```    
+
+**Terminal**     
+<img width="729" alt="터미널" src="https://user-images.githubusercontent.com/111990266/210247826-809c7cf9-c2f0-4adf-96dc-99f1c7ab944a.png">
+
+
+**Commit 내역**    
+<img width="301" alt="커밋 내역" src="https://user-images.githubusercontent.com/111990266/210247783-712eddc9-fa9e-4d19-bb8e-55cabcea8809.png">
