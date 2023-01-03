@@ -76,3 +76,34 @@ const plusFn = (a, b) => {
 const plusFn = (a, b) => a + b;
 ```
 
+
+## 구조 분해 할당
+구조 분해 할당이란 펼치다란 뜻으로 객체나 배열에서 사용한다.    
+**값을 해체한 후, 개별 값을 변수에 새로 할당하는 과정**을 말한다.
+```javascript
+// 배열
+const arr = [1, 2, 3];
+// 구조 분해 할당을 이용해 one에는 arr[0] / two에는 arr[1] / three에는 arr[2] 를 할당 하였습니다.
+const [one, two, three] = arr;
+
+// 배열에 접근하지 않고도 변수로 1,2,3을 사용할 수 있게 됨!
+one // 1
+two // 2
+three // 3
+
+
+// 객체
+const obj = {
+ firstName: '양',
+ lastName: '혜림'
+};
+
+const { firstName, lastName } = obj;
+firstName // 양
+lastName // 혜림
+```
+
+## Promise
+* 자바스크립트에서 비동기 처리를 기존에는 콜백 함수를 사용한 콜백 패턴을 사용하였다.
+* 결과적으로는 콜백헬을 발생시켰다. (콜백콜백콜백콜백...콜백지옥..)
+* 이를 해결하기 위해 프로미스가 도입, 프로미스 후속처림 메소드를 이용해 에러 처리를 효과적으로 할 수 있게 되었다.
