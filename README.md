@@ -15,5 +15,6 @@
 ## CSS / SASS
 
 ## JavaScript
+* [JavaScript ES6 문법]()
 
 ## Dev
