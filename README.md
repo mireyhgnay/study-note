@@ -16,5 +16,3 @@
 
 ## JavaScript
 * [JavaScript ES6 문법](https://github.com/mireyhgnay/study-note/blob/main/JavaScript/JavaScript-ES6%20%EB%AC%B8%EB%B2%95.md)
-
-## Dev
