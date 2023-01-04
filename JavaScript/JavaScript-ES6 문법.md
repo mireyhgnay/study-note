@@ -1,4 +1,4 @@
-# <div align="center">JavaScript ES6 문법</div>
+# <div align="center">✏️ JavaScript ES6 문법</div>
 ```
 ES란, EXMAScript의 약자이며 자바스크립트의 표준, 규격을 나타내는 용어이다.     
 ES6는 2015년에 출시되었다.
@@ -7,7 +7,6 @@ ES6는 2015년에 출시되었다.
 ## 1. let, const 키워드
 블록스코프를 가지고 재선언 불가 재할당 가능한 `let` 변수 선언 키워드와 상수 선언 키워드 `const`가 추가되었다.    
 기존 var 키워드만 있었을 때 보다 예측 가능한 코드를 작성 할 수 있게 되었다.
-
 > 💡 **블록 스코프**    
 블록스코프는 블록( {} ) 내부에서 선언된 변수는 해당 블록에서만 접근 가능한 걸 말한다.    
 스코프(scope)는 **변수에 접근할 수 있는 범위를** 말한다.    
@@ -15,6 +14,7 @@ ES6는 2015년에 출시되었다.
 지역 스코프(local)는 한정적인 범위에서 해당 변수에 접근이 가능하다.    
 지역 스코프에는 함수 스코프와 블록 스코프가 있다.
 
+<br>
 
 ## 2. 템플릿 리터럴
 ${ } 중괄호 앞 달러 표시를 통해 자바스크립트 표현식 사용이 가능하다.
@@ -29,6 +29,7 @@ var str3 = 'Hello' + str1 + str2;
 let str3 = `Hello ${str1} ${str2}`;
 ```    
 
+<br>
 
 ## 3. 객체 리터럴
 * 이전보다 훨씬 간결해진 코드로 객체를 선언할 수 있다.
@@ -55,6 +56,8 @@ obj.myFn(); // 출력값: myFn
 console.log(obj.TEXT1); // 출력값: 혜림
 ```
 
+<br>
+
 
 ## 4. 화살표 함수
 * 함수 표현식을 화살표 함수로 표현할 수도 있다.
@@ -76,8 +79,10 @@ const plusFn = (a, b) => {
 const plusFn = (a, b) => a + b;
 ```
 
+<br>
 
-## 구조 분해 할당
+
+## 5. 구조 분해 할당
 구조 분해 할당이란 펼치다란 뜻으로 객체나 배열에서 사용한다.    
 **값을 해체한 후, 개별 값을 변수에 새로 할당하는 과정**을 말한다.
 ```javascript
@@ -103,17 +108,23 @@ firstName // 양
 lastName // 혜림
 ```
 
-## Promise
+<br>
+
+## 6. Promise
 * 자바스크립트에서 비동기 처리를 기존에는 콜백 함수를 사용한 콜백 패턴을 사용하였다.
 * 결과적으로는 콜백헬을 발생시켰다. (콜백콜백콜백콜백...콜백지옥..)
 * 이를 해결하기 위해 프로미스가 도입, 프로미스 후속처림 메소드를 이용해 에러 처리를 효과적으로 할 수 있게 되었다.
 
-## Class
+<br>
+
+## 7. Class
 * 자바스크립트는 프로토타입 기반의 객체지향 언어이다.
 * 클래스 기반의 객체지향 프로그래밍도 할 수 있게 Class 키워드를 도입하였다.
 * 클래스는 호이스팅이 `let`, `const` 키워드 처럼 동작한다.
 
-## String Method (includes, startsWith, endsWith)
+<br>
+
+## 8. String Method (includes, startsWith, endsWith)
 - includes : 포함되어있는지
 - startsWith : 시작하는지
 - endsWith : 끝나는지
@@ -125,7 +136,9 @@ str.startsWith("Hello"); // true
 str.endsWith("rim"); // true
 ```
 
-## Multi-line String
+<br>
+
+## 9. Multi-line String
 * 문자열 라인을 넘어가게되면 ‘\n’ 과 덧셈 연산자를 사용했어야했다.
 * 백틱(`)을 사용하게 되면서 여러줄의 문자열 관리도 편해졌다.
 ```javascript
@@ -141,4 +154,4 @@ mxmxmxmxmxmxmxmmxmxmxmxmxmmxmxmxmxmxm`;
 
 -----
 위에 내용은 기본 문법으로 뭐가 있는지 큰 틀로 간단히 정리한 것    
-더 깊게 공부해야한다..
+더 깊게 공부해야한다..!!
