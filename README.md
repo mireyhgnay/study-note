@@ -14,4 +14,5 @@
 * [JavaScript ES6 문법](https://github.com/mireyhgnay/study-note/blob/main/JavaScript/JavaScript-ES6%20%EB%AC%B8%EB%B2%95.md)
 
 ## 용어사전
-* [블록스코프 VS 함수스코프 (+scope, context)]()
+* [블록스코프 VS 함수스코프 (+scope, context)](https://github.com/mireyhgnay/study-note/blob/main/Dictionary/%EB%B8%94%EB%A1%9D%EC%8A%A4%EC%BD%94%ED%94%84%20VS%20%ED%95%A8%EC%88%98%EC%8A%A4%EC%BD%94%ED%94%84.md)
+* [객체 지향 언어]()
