@@ -47,12 +47,12 @@ const obj = {
     console.log('객체 안에 바로 함수를 선언');
   },
   myFn,
-  [text + 1]: '하나몬'
+  [text + 1]: '혜림'
 };
 
 obj.inside(); // 출력값: 객체 안에 바로 함수를 선언
 obj.myFn(); // 출력값: myFn
-console.log(obj.TEXT1); // 출력값: 하나몬
+console.log(obj.TEXT1); // 출력값: 혜림
 ```
 
 
@@ -107,3 +107,38 @@ lastName // 혜림
 * 자바스크립트에서 비동기 처리를 기존에는 콜백 함수를 사용한 콜백 패턴을 사용하였다.
 * 결과적으로는 콜백헬을 발생시켰다. (콜백콜백콜백콜백...콜백지옥..)
 * 이를 해결하기 위해 프로미스가 도입, 프로미스 후속처림 메소드를 이용해 에러 처리를 효과적으로 할 수 있게 되었다.
+
+## Class
+* 자바스크립트는 프로토타입 기반의 객체지향 언어이다.
+* 클래스 기반의 객체지향 프로그래밍도 할 수 있게 Class 키워드를 도입하였다.
+* 클래스는 호이스팅이 `let`, `const` 키워드 처럼 동작한다.
+
+## String Method (includes, startsWith, endsWith)
+- includes : 포함되어있는지
+- startsWith : 시작하는지
+- endsWith : 끝나는지
+- boolean 타입을 return 해준다.
+```javascript
+const str = 'Hello World Hyerim';
+str.includes("World"); // true
+str.startsWith("Hello"); // true
+str.endsWith("rim"); // true
+```
+
+## Multi-line String
+* 문자열 라인을 넘어가게되면 ‘\n’ 과 덧셈 연산자를 사용했어야했다.
+* 백틱(`)을 사용하게 되면서 여러줄의 문자열 관리도 편해졌다.
+```javascript
+// ES5
+var str = 'asdhasfhfsahsfhfshasfhsfahsfahsfahasfh.\n' + 
+'mxmxmxmxmxmxmxmmxmxmxmxmxmmxmxmxmxmxm.\n'
+
+// ES6
+let str = `asdhasfhfsahsfhfshasfhsfahsfahsfahasfh
+mxmxmxmxmxmxmxmmxmxmxmxmxmmxmxmxmxmxm`;
+```
+
+
+-----
+위에 내용은 기본 문법으로 뭐가 있는지 큰 틀로 간단히 정리한 것    
+더 깊게 공부해야한다..

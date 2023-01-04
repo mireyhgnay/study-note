@@ -10,9 +10,7 @@
     - [pull 오류 :: Not possible to fast-forward, aborting](https://github.com/mireyhgnay/study-note/blob/main/Git/Git-Error-pull%20%EC%98%A4%EB%A5%98.md)
     - [git push :: 'Note about fast-forwards' in 'git push --help' for detail](https://github.com/mireyhgnay/study-note/blob/main/Git/Git-Error-push%20%EC%98%A4%EB%A5%98.md)
 
-## HTML
-
-## CSS / SASS
-
 ## JavaScript
 * [JavaScript ES6 문법](https://github.com/mireyhgnay/study-note/blob/main/JavaScript/JavaScript-ES6%20%EB%AC%B8%EB%B2%95.md)
+
+## 용어사전
