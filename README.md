@@ -21,5 +21,5 @@
 * [블록스코프 VS 함수스코프 (+scope, context)](https://github.com/mireyhgnay/study-note/blob/main/Dictionary/%EB%B8%94%EB%A1%9D%EC%8A%A4%EC%BD%94%ED%94%84%20VS%20%ED%95%A8%EC%88%98%EC%8A%A4%EC%BD%94%ED%94%84.md)
 * [객체 지향 언어](https://github.com/mireyhgnay/study-note/blob/main/Dictionary/%EA%B0%9D%EC%B2%B4%20%EC%A7%80%ED%96%A5%20%EC%96%B8%EC%96%B4.md)
 * [호이스팅(Hoisting)](https://github.com/mireyhgnay/study-note/blob/main/Dictionary/%ED%98%B8%EC%9D%B4%EC%8A%A4%ED%8C%85(Hoisting).md)
-* [모노레포(Mono Repo)]()
-* [린트(Lint)]()
+* [모노레포(Mono Repo)](https://github.com/mireyhgnay/study-note/blob/main/Dictionary/%EB%AA%A8%EB%85%B8%EB%A0%88%ED%8F%AC(Mono%20Repo).md)
+* [린트(Lint)](https://github.com/mireyhgnay/study-note/blob/main/Dictionary/%EB%A6%B0%ED%8A%B8(Lint).md)

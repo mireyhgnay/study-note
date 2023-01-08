@@ -25,6 +25,5 @@ ESLint는 ECMAScript 코드에서 문제점을 검사하고 일부는 더 나은
     - 어플리케이션의 잠재적인 오류나 버그를 예방하기 위함이다. 
     - ex. 사용하지 않는 변수 쓰지 않기, 글로벌 스코프 함부로 다루지 않기 등
 
-<br>
----
+-----    
 @Reference https://jeonghwan-kim.github.io/series/2019/12/30/frontend-dev-env-lint.html
