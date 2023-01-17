@@ -1,4 +1,10 @@
-# <div align="center">✏️<br>Study Note</div>
+<div align="center">
+  <img width="200px;" src="./images/studying.png"/>
+</div>
+<h2 align="center">✏️ Study Note</h2>
+<p align="center">자주 사용되는 용어나 공부한 내용들 기록하기</p>
+
+<br>
 
 ## Git
 * [자주 사용하는 Git 명령어](https://github.com/mireyhgnay/study-note/blob/main/Git/Git-%EC%9E%90%EC%A3%BC%20%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94%20Git%20%EB%AA%85%EB%A0%B9%EC%96%B4.md)
