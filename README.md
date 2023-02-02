@@ -31,4 +31,4 @@
 * [모노레포(Mono Repo)](https://github.com/mireyhgnay/study-note/blob/main/Dictionary/%EB%AA%A8%EB%85%B8%EB%A0%88%ED%8F%AC(Mono%20Repo).md)
 * [린트(Lint)](https://github.com/mireyhgnay/study-note/blob/main/Dictionary/%EB%A6%B0%ED%8A%B8(Lint).md)
 * [센트리(Sentry)](https://github.com/mireyhgnay/study-note/blob/main/Dictionary/%EC%84%BC%ED%8A%B8%EB%A6%AC(Sentry).md)
-* [버블링(bubbling)]()
+* [버블링(bubbling)](https://github.com/mireyhgnay/study-note/blob/main/Dictionary/%EB%B2%84%EB%B8%94%EB%A7%81(Bubbling).md)
