@@ -32,3 +32,9 @@
 * [린트(Lint)](https://github.com/mireyhgnay/study-note/blob/main/Dictionary/%EB%A6%B0%ED%8A%B8(Lint).md)
 * [센트리(Sentry)](https://github.com/mireyhgnay/study-note/blob/main/Dictionary/%EC%84%BC%ED%8A%B8%EB%A6%AC(Sentry).md)
 * [버블링(bubbling)](https://github.com/mireyhgnay/study-note/blob/main/Dictionary/%EB%B2%84%EB%B8%94%EB%A7%81(Bubbling).md)
+
+<br>
+
+## Issue
+> 업무에서 혹은 개인적으로 공부하면서 기록해야 할 이슈들을 기록합니다.
+- [formatDateIfFailed 함수의 치명적인 문제점 찾아내기]() 
