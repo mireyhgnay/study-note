@@ -57,3 +57,4 @@
 > 업무에서 혹은 개인적으로 공부하면서 기록해야 할 이슈들을 기록합니다.
 
 - [formatDateIfFailed 함수의 치명적인 문제점 찾아내기](https://github.com/mireyhgnay/study-note/blob/main/Issue/formatDateIfFailed%20%ED%95%A8%EC%88%98%EC%9D%98%20%EC%B9%98%EB%AA%85%EC%A0%81%EC%9D%B8%20%EB%AC%B8%EC%A0%9C%EC%A0%90%20%EC%B0%BE%EC%95%84%EB%82%B4%EA%B8%B0.md)
+- [에러 로그에 검색 로봇 필터링 추가하기]()
