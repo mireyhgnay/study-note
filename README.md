@@ -46,6 +46,7 @@
 - [린트(Lint)](<https://github.com/mireyhgnay/study-note/blob/main/Dictionary/%EB%A6%B0%ED%8A%B8(Lint).md>)
 - [센트리(Sentry)](<https://github.com/mireyhgnay/study-note/blob/main/Dictionary/%EC%84%BC%ED%8A%B8%EB%A6%AC(Sentry).md>)
 - [버블링(bubbling)](<https://github.com/mireyhgnay/study-note/blob/main/Dictionary/%EB%B2%84%EB%B8%94%EB%A7%81(Bubbling).md>)
+- [웹 로그(Web Log)]()
 
 <br>
 
