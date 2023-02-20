@@ -47,6 +47,7 @@
 - [센트리(Sentry)](<https://github.com/mireyhgnay/study-note/blob/main/Dictionary/%EC%84%BC%ED%8A%B8%EB%A6%AC(Sentry).md>)
 - [버블링(bubbling)](<https://github.com/mireyhgnay/study-note/blob/main/Dictionary/%EB%B2%84%EB%B8%94%EB%A7%81(Bubbling).md>)
 - [웹 로그(Web Log)](<https://github.com/mireyhgnay/study-note/blob/main/Dictionary/%EC%9B%B9%20%EB%A1%9C%EA%B7%B8(Web%20Log).md>)
+- [예외처리]()
 
 <br>
 
