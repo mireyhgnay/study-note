@@ -39,7 +39,7 @@
 - [operator 연산자](https://github.com/mireyhgnay/study-note/blob/main/JavaScript/operator%20%EC%97%B0%EC%82%B0%EC%9E%90.md)
 - [Function 함수의 선언과 표현](https://github.com/mireyhgnay/study-note/blob/main/JavaScript/Function%20%ED%95%A8%EC%88%98%EC%9D%98%20%EC%84%A0%EC%96%B8%EA%B3%BC%20%ED%91%9C%ED%98%84.md)
 - [Class VS Object](https://github.com/mireyhgnay/study-note/blob/main/JavaScript/Class%20VS%20Object.md)
-- [Object]()
+- [Object](https://github.com/mireyhgnay/study-note/blob/main/JavaScript/Object.md)
 
 <br>
 
