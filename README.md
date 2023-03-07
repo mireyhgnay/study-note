@@ -24,9 +24,11 @@
 - [Rollback](<https://github.com/mireyhgnay/study-note/blob/main/Git/Git-Rollback(%EB%A1%A4%EB%B0%B1).md>)
 - [git commit convention 이해하기](https://github.com/mireyhgnay/study-note/blob/main/Git/Git-commit%20convention%20%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0.md)
 - Error
-  - [협업시 하위브랜치끼리 머지 충돌난 경우](https://github.com/mireyhgnay/study-note/blob/main/Git/Git-Error-%ED%98%91%EC%97%85%EC%8B%9C%20%ED%95%98%EC%9C%84%EB%B8%8C%EB%9E%9C%EC%B9%98%EB%81%BC%EB%A6%AC%20%EB%A8%B8%EC%A7%80%20%EC%B6%A9%EB%8F%8C%EB%82%9C%20%EA%B2%BD%EC%9A%B0.md)
-  - [pull 오류 :: Not possible to fast-forward, aborting](https://github.com/mireyhgnay/study-note/blob/main/Git/Git-Error-pull%20%EC%98%A4%EB%A5%98.md)
-  - [git push :: 'Note about fast-forwards' in 'git push --help' for detail](https://github.com/mireyhgnay/study-note/blob/main/Git/Git-Error-push%20%EC%98%A4%EB%A5%98.md)
+  - [Merge Conflict :: 협업시 하위브랜치끼리 머지 충돌난 경우]()
+  - [pull 오류 :: Not possible to fast-forward, aborting]()
+  - [git push :: 'Note about fast-forwards' in 'git push --help' for detail]()
+
+<br>
 
 <br>
 
@@ -50,24 +52,10 @@
 
 <br>
 
-## 용어사전
+## Dictionary
 
 - [블록스코프 VS 함수스코프 (+scope, context)](https://github.com/mireyhgnay/study-note/blob/main/Dictionary/%EB%B8%94%EB%A1%9D%EC%8A%A4%EC%BD%94%ED%94%84%20VS%20%ED%95%A8%EC%88%98%EC%8A%A4%EC%BD%94%ED%94%84.md)
 - [객체 지향 언어](https://github.com/mireyhgnay/study-note/blob/main/Dictionary/%EA%B0%9D%EC%B2%B4%20%EC%A7%80%ED%96%A5%20%EC%96%B8%EC%96%B4.md)
 - [호이스팅(Hoisting)](<https://github.com/mireyhgnay/study-note/blob/main/Dictionary/%ED%98%B8%EC%9D%B4%EC%8A%A4%ED%8C%85(Hoisting).md>)
-- [모노레포(Mono Repo)](<https://github.com/mireyhgnay/study-note/blob/main/Dictionary/%EB%AA%A8%EB%85%B8%EB%A0%88%ED%8F%AC(Mono%20Repo).md>)
-- [린트(Lint)](<https://github.com/mireyhgnay/study-note/blob/main/Dictionary/%EB%A6%B0%ED%8A%B8(Lint).md>)
-- [센트리(Sentry)](<https://github.com/mireyhgnay/study-note/blob/main/Dictionary/%EC%84%BC%ED%8A%B8%EB%A6%AC(Sentry).md>)
 - [버블링(bubbling)](<https://github.com/mireyhgnay/study-note/blob/main/Dictionary/%EB%B2%84%EB%B8%94%EB%A7%81(Bubbling).md>)
-- [웹 로그(Web Log)](<https://github.com/mireyhgnay/study-note/blob/main/Dictionary/%EC%9B%B9%20%EB%A1%9C%EA%B7%B8(Web%20Log).md>)
-- [예외처리](https://github.com/mireyhgnay/study-note/blob/main/Dictionary/%EC%98%88%EC%99%B8%EC%B2%98%EB%A6%AC.md)
 - [코드 난독화](https://github.com/mireyhgnay/study-note/blob/main/Dictionary/%EC%BD%94%EB%93%9C%20%EB%82%9C%EB%8F%85%ED%99%94.md)
-
-<br>
-
-## Issue
-
-> 업무에서 혹은 개인적으로 공부하면서 기록해야 할 이슈들을 기록합니다.
-
-- [formatDateIfFailed 함수의 치명적인 문제점 찾아내기](https://github.com/mireyhgnay/study-note/blob/main/Issue/formatDateIfFailed%20%ED%95%A8%EC%88%98%EC%9D%98%20%EC%B9%98%EB%AA%85%EC%A0%81%EC%9D%B8%20%EB%AC%B8%EC%A0%9C%EC%A0%90%20%EC%B0%BE%EC%95%84%EB%82%B4%EA%B8%B0.md)
-- [에러 로그에 검색 로봇 필터링 추가하기](https://github.com/mireyhgnay/study-note/blob/main/Issue/%EC%97%90%EB%9F%AC%20%EB%A1%9C%EA%B7%B8%EC%97%90%20%EA%B2%80%EC%83%89%20%EB%A1%9C%EB%B4%87%20%ED%95%84%ED%84%B0%EB%A7%81%20%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0.md)
