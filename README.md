@@ -59,4 +59,4 @@
 - [호이스팅(Hoisting)](<https://github.com/mireyhgnay/study-note/blob/main/Dictionary/%ED%98%B8%EC%9D%B4%EC%8A%A4%ED%8C%85(Hoisting).md>)
 - [버블링(bubbling)](<https://github.com/mireyhgnay/study-note/blob/main/Dictionary/%EB%B2%84%EB%B8%94%EB%A7%81(Bubbling).md>)
 - [코드 난독화](https://github.com/mireyhgnay/study-note/blob/main/Dictionary/%EC%BD%94%EB%93%9C%20%EB%82%9C%EB%8F%85%ED%99%94.md)
-- [브라우저 렌더링 과정과 가상돔에 대해서]()
+- [브라우저 렌더링 과정과 가상돔에 대해서](https://github.com/mireyhgnay/study-note/blob/main/Study/%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%20%EB%A0%8C%EB%8D%94%EB%A7%81%20%EA%B3%BC%EC%A0%95%EA%B3%BC%20%EA%B0%80%EC%83%81%EB%8F%94.md)
