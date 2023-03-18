@@ -38,7 +38,7 @@
 - [var, let, const 차이점](https://github.com/mireyhgnay/study-note/blob/main/JavaScript/var-let-const-%EC%B0%A8%EC%9D%B4%EC%A0%90.md)
 - [정규 표현식](https://github.com/mireyhgnay/study-note/blob/main/JavaScript/%EC%A0%95%EA%B7%9C%ED%91%9C%ED%98%84%EC%8B%9D.md)
 
-**`드림코딩 JavaScript 기초`**
+**`JavaScript 기초`**
 
 - [async와 defer](https://github.com/mireyhgnay/study-note/blob/main/JavaScript/async%EC%99%80%20defer.md)
 - [operator 연산자](https://github.com/mireyhgnay/study-note/blob/main/JavaScript/operator%20%EC%97%B0%EC%82%B0%EC%9E%90.md)
