@@ -58,6 +58,7 @@
 - [리액트에서 이미지 넣는 방법](https://github.com/mireyhgnay/study-note/blob/main/React/%EB%A6%AC%EC%95%A1%ED%8A%B8%EC%97%90%EC%84%9C%20%EC%9D%B4%EB%AF%B8%EC%A7%80%20%EB%84%A3%EB%8A%94%20%EB%B0%A9%EB%B2%95.md)
 - [JSX 문법 정리](https://github.com/mireyhgnay/study-note/blob/main/React/JSX%20%EB%AC%B8%EB%B2%95%20%EC%A0%95%EB%A6%AC.md)
 - [리액트 동작 원리](https://github.com/mireyhgnay/study-note/blob/main/React/%EB%A6%AC%EC%95%A1%ED%8A%B8%20%EB%8F%99%EC%9E%91%20%EC%9B%90%EB%A6%AC.md)
+- [Create React App 프로젝트 만들기]()
 
 <br>
 <br>
