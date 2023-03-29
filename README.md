@@ -55,7 +55,7 @@
 
 ## React
 
-- [리액트에서 이미지 넣는 방법]()
+- [리액트에서 이미지 넣는 방법](https://github.com/mireyhgnay/study-note/blob/main/React/%EB%A6%AC%EC%95%A1%ED%8A%B8%EC%97%90%EC%84%9C%20%EC%9D%B4%EB%AF%B8%EC%A7%80%20%EB%84%A3%EB%8A%94%20%EB%B0%A9%EB%B2%95.md)
 
 <br>
 <br>
