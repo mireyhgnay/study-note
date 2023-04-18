@@ -34,10 +34,6 @@
 
 ## JavaScript
 
-- [JavaScript ES6 문법](https://github.com/mireyhgnay/study-note/blob/main/JavaScript/JavaScript-ES6%20%EB%AC%B8%EB%B2%95.md)
-- [var, let, const 차이점](https://github.com/mireyhgnay/study-note/blob/main/JavaScript/var-let-const-%EC%B0%A8%EC%9D%B4%EC%A0%90.md)
-- [정규 표현식](https://github.com/mireyhgnay/study-note/blob/main/JavaScript/%EC%A0%95%EA%B7%9C%ED%91%9C%ED%98%84%EC%8B%9D.md)
-
 **`JavaScript 기초`**
 
 - [async와 defer](https://github.com/mireyhgnay/study-note/blob/main/JavaScript/async%EC%99%80%20defer.md)
@@ -49,6 +45,14 @@
 - [JSON](https://github.com/mireyhgnay/study-note/blob/main/JavaScript/JSON.md)
 - [비동기 처리의 시작 콜백 이해하기](https://github.com/mireyhgnay/study-note/blob/main/JavaScript/%EB%B9%84%EB%8F%99%EA%B8%B0%20%EC%B2%98%EB%A6%AC%EC%9D%98%20%EC%8B%9C%EC%9E%91%20%EC%BD%9C%EB%B0%B1%20%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0.md)
 - [Promise](https://github.com/mireyhgnay/study-note/blob/main/JavaScript/Promise.md)
+
+**`JavaScript`**
+
+- [JavaScript ES6 문법](https://github.com/mireyhgnay/study-note/blob/main/JavaScript/JavaScript-ES6%20%EB%AC%B8%EB%B2%95.md)
+- [var, let, const 차이점](https://github.com/mireyhgnay/study-note/blob/main/JavaScript/var-let-const-%EC%B0%A8%EC%9D%B4%EC%A0%90.md)
+- [정규 표현식](https://github.com/mireyhgnay/study-note/blob/main/JavaScript/%EC%A0%95%EA%B7%9C%ED%91%9C%ED%98%84%EC%8B%9D.md)
+- []()
+- []()
 
 <br>
 <br>
