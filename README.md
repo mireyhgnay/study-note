@@ -53,7 +53,7 @@
 - [정규 표현식](https://github.com/mireyhgnay/study-note/blob/main/JavaScript/%EC%A0%95%EA%B7%9C%ED%91%9C%ED%98%84%EC%8B%9D.md)
 - [JavaScript - 숫자를 문자열로 변환하기](https://github.com/mireyhgnay/study-note/blob/main/JavaScript/JavaScript%20-%20%EC%88%AB%EC%9E%90%EB%A5%BC%20%EB%AC%B8%EC%9E%90%EC%97%B4%EB%A1%9C%20%EB%B3%80%ED%99%98%ED%95%98%EA%B8%B0.md)
 - [JavaScript - 문자열을 숫자로 변환하기](https://github.com/mireyhgnay/study-note/blob/main/JavaScript/JavaScript%20-%20%EC%88%AB%EC%9E%90%EB%A5%BC%20%EB%AC%B8%EC%9E%90%EC%97%B4%EB%A1%9C%20%EB%B3%80%ED%99%98%ED%95%98%EA%B8%B0.md)
-- [JavaScript - 배열로 변환하기]()
+- [JavaScript - 배열로 변환하기](https://github.com/mireyhgnay/study-note/blob/main/JavaScript/JavaScript%20-%20%EB%B0%B0%EC%97%B4%EB%A1%9C%20%EB%B3%80%ED%99%98%ED%95%98%EA%B8%B0.md)
 
 <br>
 <br>
