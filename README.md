@@ -20,7 +20,7 @@
 
 ## CSS
 
-- [CSS : Scroll-Snap 속성]()
+- [CSS : Scroll-Snap 속성](https://github.com/mireyhgnay/study-note/blob/main/CSS/CSS%20:%20Scroll-Snap%20%EC%86%8D%EC%84%B1.md)
 
 <br>
 <br>
