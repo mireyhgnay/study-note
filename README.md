@@ -18,6 +18,13 @@
 <br>
 <br>
 
+## CSS
+
+- [CSS : Scroll-Snap 속성]()
+
+<br>
+<br>
+
 ## Git
 
 - [자주 사용하는 Git 명령어](https://github.com/mireyhgnay/study-note/blob/main/Git/Git-%EC%9E%90%EC%A3%BC%20%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94%20Git%20%EB%AA%85%EB%A0%B9%EC%96%B4.md)
