@@ -79,7 +79,7 @@
 
 ## Study
 
-[🔗 리액트 공식문서 + ⍺ 번역사이트](https://roy-jung.notion.site/ceafe6c9d0d24e3aae51199dbea133ca)
+- [리액트 공식문서 + ⍺ 번역사이트](https://roy-jung.notion.site/ceafe6c9d0d24e3aae51199dbea133ca)
 
 - [블록스코프 VS 함수스코프 (+scope, context)](https://github.com/mireyhgnay/study-note/blob/main/Dictionary/%EB%B8%94%EB%A1%9D%EC%8A%A4%EC%BD%94%ED%94%84%20VS%20%ED%95%A8%EC%88%98%EC%8A%A4%EC%BD%94%ED%94%84.md)
 - [객체 지향 언어](https://github.com/mireyhgnay/study-note/blob/main/Dictionary/%EA%B0%9D%EC%B2%B4%20%EC%A7%80%ED%96%A5%20%EC%96%B8%EC%96%B4.md)
@@ -90,3 +90,5 @@
 - [논리연산자의 원래 의미 ( && 와 || )](<https://github.com/mireyhgnay/study-note/blob/main/Study/%EB%85%BC%EB%A6%AC%EC%97%B0%EC%82%B0%EC%9E%90%EC%9D%98%20%EC%9B%90%EB%9E%98%20%EC%9D%98%EB%AF%B8%20(%20%26%26%20%EC%99%80%20%7C%7C%20).md>)
 - [Netlify 사용해서 리액트 앱 배포하기](https://github.com/mireyhgnay/study-note/blob/main/React/Netlify%20%EC%82%AC%EC%9A%A9%ED%95%B4%EC%84%9C%20%EB%A6%AC%EC%95%A1%ED%8A%B8%20%EC%95%B1%20%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0.md)
 - [Netlify 배포 - 빌드 에러 해결방법](https://github.com/mireyhgnay/study-note/blob/main/React/Netlify%20%EB%B9%8C%EB%93%9C%20%EC%97%90%EB%9F%AC%20%ED%95%B4%EA%B2%B0%20%EB%B0%A9%EB%B2%95.md)
+
+- [npm install 과 npm ci]()
