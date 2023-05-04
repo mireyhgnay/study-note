@@ -91,4 +91,4 @@
 - [Netlify 사용해서 리액트 앱 배포하기](https://github.com/mireyhgnay/study-note/blob/main/React/Netlify%20%EC%82%AC%EC%9A%A9%ED%95%B4%EC%84%9C%20%EB%A6%AC%EC%95%A1%ED%8A%B8%20%EC%95%B1%20%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0.md)
 - [Netlify 배포 - 빌드 에러 해결방법](https://github.com/mireyhgnay/study-note/blob/main/React/Netlify%20%EB%B9%8C%EB%93%9C%20%EC%97%90%EB%9F%AC%20%ED%95%B4%EA%B2%B0%20%EB%B0%A9%EB%B2%95.md)
 
-- [npm install 과 npm ci]()
+- [npm install 과 npm ci](https://github.com/mireyhgnay/study-note/blob/main/Study/npm%20install%20%EA%B3%BC%20npm%20ci.md)
