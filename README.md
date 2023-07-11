@@ -65,7 +65,7 @@
 
 **`제주코딩베이스캠프 - JavaScript`**
 
-- [JS 요약 1부]()
+- [JS 요약 1부](https://github.com/mireyhgnay/study-note/blob/main/JavaScript/%5BSummary%20%EC%8B%9C%EB%A6%AC%EC%A6%88%5D%2030%EB%B6%84%20JS%20%EC%9A%94%EC%95%BD%201%EB%B6%80.md)
 
 <br>
 <br>
