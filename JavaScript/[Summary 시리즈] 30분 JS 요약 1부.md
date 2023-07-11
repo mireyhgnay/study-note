@@ -223,3 +223,27 @@ document.write(Math.max(10, 20, 30)); // 30
 - Math.max() : 최댓값 구하기
 
 ⇒ 이거 외에도 많음
+
+<br>
+<br>
+
+## 날짜 Date
+
+```jsx
+var date = new Date();
+document.write(date); // 한국 표준시간으로 날짜시간 모두 출력됨
+document.write(date.getMonth() + 1); // 1을 더해줘야 현재 월로 나옴
+document.write(date.getDate()); // 일요일 0 ~ 토요일 6
+document.write(date.getDay()); // 현재 날짜
+document.write(date.getHours()); // 현재 시간출력
+```
+
+<br>
+<br>
+
+## 배열 Array
+
+```jsx
+var arr = [10, 20, 30];
+document.write(arr[2]); // 30
+```
