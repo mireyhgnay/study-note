@@ -45,7 +45,7 @@ var date = [
 
 **원하는 데이터 출력하기**
 
-```json
+```
 console.log(data[0]); // 라이켓 데이터 전체 가져옴
 console.log(data[0]["name"]); // "라이캣"
 ```
