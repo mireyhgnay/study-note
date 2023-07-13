@@ -63,7 +63,7 @@
 - [JavaScript - 문자열을 숫자로 변환하기](https://github.com/mireyhgnay/study-note/blob/main/JavaScript/JavaScript%20-%20%EC%88%AB%EC%9E%90%EB%A5%BC%20%EB%AC%B8%EC%9E%90%EC%97%B4%EB%A1%9C%20%EB%B3%80%ED%99%98%ED%95%98%EA%B8%B0.md)
 - [JavaScript - 배열로 변환하기](https://github.com/mireyhgnay/study-note/blob/main/JavaScript/JavaScript%20-%20%EB%B0%B0%EC%97%B4%EB%A1%9C%20%EB%B3%80%ED%99%98%ED%95%98%EA%B8%B0.md)
 
-**`제주코딩베이스캠프 - JavaScript`**
+**`제주코딩베이스캠프`**
 
 - [JS 요약 1부](https://github.com/mireyhgnay/study-note/blob/main/JavaScript/%5BSummary%20%EC%8B%9C%EB%A6%AC%EC%A6%88%5D%2030%EB%B6%84%20JS%20%EC%9A%94%EC%95%BD%201%EB%B6%80.md)
 
@@ -96,6 +96,7 @@
 - [논리연산자의 원래 의미 ( && 와 || )](<https://github.com/mireyhgnay/study-note/blob/main/Study/%EB%85%BC%EB%A6%AC%EC%97%B0%EC%82%B0%EC%9E%90%EC%9D%98%20%EC%9B%90%EB%9E%98%20%EC%9D%98%EB%AF%B8%20(%20%26%26%20%EC%99%80%20%7C%7C%20).md>)
 - [Netlify 사용해서 리액트 앱 배포하기](https://github.com/mireyhgnay/study-note/blob/main/React/Netlify%20%EC%82%AC%EC%9A%A9%ED%95%B4%EC%84%9C%20%EB%A6%AC%EC%95%A1%ED%8A%B8%20%EC%95%B1%20%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0.md)
 - [Netlify 배포 - 빌드 에러 해결방법](https://github.com/mireyhgnay/study-note/blob/main/React/Netlify%20%EB%B9%8C%EB%93%9C%20%EC%97%90%EB%9F%AC%20%ED%95%B4%EA%B2%B0%20%EB%B0%A9%EB%B2%95.md)
+- [제주코딩베이스캠프 - 넓고 얕은 IT 지식]()
 
 <br>
 <br>
