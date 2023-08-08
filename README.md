@@ -7,11 +7,11 @@
 <br>
 <br>
 
-|  구분   |                            URL                            |
-| :-----: | :-------------------------------------------------------: |
-| Markup  | https://github.com/mireyhgnay/study-note/tree/main/Markup |
-|   Git   |                          테스트2                          |
-| 테스트1 |                          테스트2                          |
+|  구분   |                                 URL                                 |
+| :-----: | :-----------------------------------------------------------------: |
+| Markup  | https://github.com/mireyhgnay/study-note/blob/main/Markup/README.md |
+|   Git   |  https://github.com/mireyhgnay/study-note/blob/main/Git/README.md   |
+| 테스트1 |                               테스트2                               |
 
 <br>
 <br>
