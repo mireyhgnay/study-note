@@ -12,7 +12,7 @@
 |   Markup   |   https://github.com/mireyhgnay/study-note/blob/main/Markup/README.md   |
 |    Git     |    https://github.com/mireyhgnay/study-note/blob/main/Git/README.md     |
 | JavaScript | https://github.com/mireyhgnay/study-note/blob/main/JavaScript/README.md |
-|   React    | https://github.com/mireyhgnay/study-note/blob/main/JavaScript/README.md |
+|   React    |   https://github.com/mireyhgnay/study-note/blob/main/React/README.md    |
 
 <br>
 <br>
