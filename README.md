@@ -13,5 +13,5 @@
 |    Git     |    https://github.com/mireyhgnay/study-note/blob/main/Git/README.md     |
 | JavaScript | https://github.com/mireyhgnay/study-note/blob/main/JavaScript/README.md |
 |   React    |   https://github.com/mireyhgnay/study-note/blob/main/React/README.md    |
-|  Install   |                                                                         |
-|   Study    |                                                                         |
+|  Install   |  https://github.com/mireyhgnay/study-note/blob/main/Install/README.md   |
+|   Study    |   https://github.com/mireyhgnay/study-note/blob/main/Study/README.md    |
