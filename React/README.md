@@ -18,4 +18,4 @@
 ## Next.js
 
 - [DNS(Domain Name System)](<https://github.com/mireyhgnay/study-note/blob/main/React/DNS(Domain%20Name%20System).md>)
-- [LoadBalancer(로드밸런서)]()
+- [LoadBalancer(로드밸런서)](<https://github.com/mireyhgnay/study-note/blob/main/React/LoadBalancer(%EB%A1%9C%EB%93%9C%EB%B0%B8%EB%9F%B0%EC%84%9C).md>)
