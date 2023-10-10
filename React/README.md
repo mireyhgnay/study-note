@@ -21,3 +21,4 @@
 - [LoadBalancer(로드밸런서)](<https://github.com/mireyhgnay/study-note/blob/main/React/NextJS/LoadBalancer(%EB%A1%9C%EB%93%9C%EB%B0%B8%EB%9F%B0%EC%84%9C).md>)
 - [Proxy Server(프록시 서버)와 Gateway Server (게이트웨이)](<https://github.com/mireyhgnay/study-note/blob/main/React/NextJS/Proxy%20Server(%ED%94%84%EB%A1%9D%EC%8B%9C%20%EC%84%9C%EB%B2%84)%EC%99%80%20Gateway%20Server%20(%EA%B2%8C%EC%9D%B4%ED%8A%B8%EC%9B%A8%EC%9D%B4).md>)
 - [Service Discovery]()
+- [쿠키(Cookie), 세션(Session)]()
