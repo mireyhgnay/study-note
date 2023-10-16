@@ -26,3 +26,4 @@
 - [쿠키(Cookie), 세션(Session)](<https://github.com/mireyhgnay/study-note/blob/main/React/NextJS/%EC%BF%A0%ED%82%A4(Cookie)%2C%20%EC%84%B8%EC%85%98(Session).md>)
 - [보일러플레이트](https://github.com/mireyhgnay/study-note/blob/main/React/NextJS/%EB%B3%B4%EC%9D%BC%EB%9F%AC%ED%94%8C%EB%A0%88%EC%9D%B4%ED%8A%B8.md)
 - [TDD(테스트 주도 개발)과 종류(E2E)](<https://github.com/mireyhgnay/study-note/blob/main/React/NextJS/TDD(%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EC%A3%BC%EB%8F%84%20%EA%B0%9C%EB%B0%9C)%EA%B3%BC%20%EC%A2%85%EB%A5%98(E2E).md>)
+- [server-driven-ui API로 UI 관리하기]()
